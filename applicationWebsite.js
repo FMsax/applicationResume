@@ -26,7 +26,7 @@ document.querySelector(".yourName").innerHTML = (finalFirstName + " " +finalName
 
 
 var typed = new Typed(".auto-typing",{
-    strings: ["FERANMI,","A WEB DEVELOPER,", "A FLUTTER AND DART PROGRAMMER,", "A SAXOPHONIST,", "A TEACHER,", "A JAVA PROGRAMMER,","AN ACTOR"],
+    strings: ["FERANMI,","A WEB DEVELOPER,", "A FLUTTER AND DART PROGRAMMER,", "A SAXOPHONIST,", "A TEACHER,", "A JAVA PROGRAMMER,","A WRITER"],
     typeSpeed: 40,
     backSpeed: 50,
     loop: true
